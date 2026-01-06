@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\yagos\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\SistemaInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|solutionrelative:models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|solutionrelative:models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08229F5B-EE44-4B7F-BFA3-BCEB8F560934}|SistemaInventario.csproj|solutionrelative:models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|c:\\users\\yagos\\onedrive\\\u00E1rea de trabalho\\faculdade\\sistemainventario\\models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF346DE-494A-0E7E-AB29-456E960AFD57}|SistemaInventario.csproj|solutionrelative:models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "Models\\Categoria.cs",
               "ToolTip": "C:\\Users\\yagos\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\SistemaInventario\\Models\\Categoria.cs",
               "RelativeToolTip": "Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T13:52:18.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Inventario.cs",
               "DocumentMoniker": "C:\\Users\\yagos\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\SistemaInventario\\Models\\Inventario.cs",
               "RelativeDocumentMoniker": "Models\\Inventario.cs",
@@ -68,26 +68,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\yagos\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\SistemaInventario\\Models\\Item.cs",
               "RelativeDocumentMoniker": "Models\\Item.cs",
               "ToolTip": "C:\\Users\\yagos\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\SistemaInventario\\Models\\Item.cs",
               "RelativeToolTip": "Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T13:22:30.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Personagem.cs",
               "DocumentMoniker": "C:\\Users\\yagos\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\SistemaInventario\\Models\\Personagem.cs",
               "RelativeDocumentMoniker": "Models\\Personagem.cs",
               "ToolTip": "C:\\Users\\yagos\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\SistemaInventario\\Models\\Personagem.cs",
               "RelativeToolTip": "Models\\Personagem.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAIwBQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T13:20:35.145Z",
               "EditorCaption": ""
@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\yagos\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\SistemaInventario\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowBUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T13:18:41.311Z",
               "EditorCaption": ""

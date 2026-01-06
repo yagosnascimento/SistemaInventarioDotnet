@@ -12,3 +12,4 @@ C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\
 C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.pdb
 C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.genruntimeconfig.cache
 C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\ref\SistemaInventario.dll
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.sourcelink.json

@@ -1,0 +1,14 @@
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\bin\Debug\net8.0\SistemaInventario.exe
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\bin\Debug\net8.0\SistemaInventario.deps.json
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\bin\Debug\net8.0\SistemaInventario.runtimeconfig.json
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\bin\Debug\net8.0\SistemaInventario.dll
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\bin\Debug\net8.0\SistemaInventario.pdb
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.AssemblyInfoInputs.cache
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.AssemblyInfo.cs
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.csproj.CoreCompileInputs.cache
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.dll
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\refint\SistemaInventario.dll
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.pdb
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\SistemaInventario.genruntimeconfig.cache
+C:\Users\yagos\OneDrive\Área de Trabalho\Faculdade\SistemaInventario\obj\Debug\net8.0\ref\SistemaInventario.dll

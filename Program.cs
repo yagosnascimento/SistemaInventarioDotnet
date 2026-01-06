@@ -68,20 +68,40 @@ internal class Program
                         listaDePersonagens[i].ExibirInventario();
                     }
 
-                    Console.WriteLine("\nDeseja EQUIPAR um item de um personagem? (s/n)");
-                    if (Console.ReadLine().ToLower() == "s" && listaDePersonagens.Count > 0)
+                    if (listaDePersonagens.Count > 0)
                     {
-                        Console.Write("Digite o número do personagem: ");
-                        if (int.TryParse(Console.ReadLine(), out int pIdx) && pIdx < listaDePersonagens.Count)
-                        {
-                            var p = listaDePersonagens[pIdx];
-                            Console.WriteLine($"\nItens na mochila de {p.Nome}:");
-                            for (int j = 0; j < p.Mochila.Itens.Count; j++)
-                                Console.WriteLine($"{j} - {p.Mochila.Itens[j].Nome}");
+                        Console.WriteLine("\nO que deseja fazer?");
+                        Console.WriteLine("e - EQUIPAR um item");
+                        Console.WriteLine("d - DESEQUIPAR um item");
+                        Console.WriteLine("n - Voltar");
+                        string acao = Console.ReadLine().ToLower();
 
-                            Console.Write("Escolha o número do item para equipar: ");
-                            if (int.TryParse(Console.ReadLine(), out int iIdx) && iIdx < p.Mochila.Itens.Count)
-                                p.EquiparItem(p.Mochila.Itens[iIdx]);
+                        if (acao == "e" || acao == "d")
+                        {
+                            Console.Write("Digite o número do personagem: ");
+                            if (int.TryParse(Console.ReadLine(), out int pIdx) && pIdx < listaDePersonagens.Count)
+                            {
+                                var p = listaDePersonagens[pIdx];
+
+                                Console.WriteLine($"\nItens de {p.Nome}:");
+                                for (int j = 0; j < p.Mochila.Itens.Count; j++)
+                                {
+                                    var item = p.Mochila.Itens[j];
+                                    if ((acao == "d" && item.Equipado) || (acao == "e" && !item.Equipado))
+                                    {
+                                        Console.WriteLine($"{j} - {item.Nome} ({(item.Equipado ? "Equipado" : "Na Mochila")})");
+                                    }
+                                }
+
+                                Console.Write($"Escolha o número do item para {(acao == "e" ? "equipar" : "desequipar")}: ");
+                                if (int.TryParse(Console.ReadLine(), out int iIdx) && iIdx < p.Mochila.Itens.Count)
+                                {
+                                    if (acao == "e")
+                                        p.EquiparItem(p.Mochila.Itens[iIdx]);
+                                    else
+                                        p.DesequiparItem(p.Mochila.Itens[iIdx]);
+                                }
+                            }
                         }
                     }
                     Console.WriteLine("\nPressione qualquer tecla...");
